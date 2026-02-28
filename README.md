@@ -62,7 +62,7 @@ Event Stream  →  Spatiotemporal             │
 
 ## Results (Preliminary)
 
-Evaluating pretrained encoder (frozen) fine-tuned on downstream tasks with limited labels:
+Evaluating pretrained encoder (frozen) fine-tuned on downstream tasks with limited labels:(placeholder)
 
 | Task | Train from Scratch | DINOv2 (RGB) | MEM (Events only) | **EvManip (Ours)** |
 |------|--------------------|--------------|-------------------|-------------------|
